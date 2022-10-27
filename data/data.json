@@ -1,0 +1,137 @@
+[
+    {
+        "_id": "1",
+        "categoryId": 1,
+        "categoryName": "Web Development",
+        "img": "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif",
+        "cover":"https://www.kalpnatayal.com/wp-content/uploads/2021/04/Web-mobile-development-banner-06.jpg" ,
+        "name": "Web Design & Development",
+        
+        "requirements": [
+          "Have a computer with Internet",
+          "Be ready to learn an insane amount of awesome stuff",
+          "Prepare to build real web apps!",
+          "Brace yourself for stupid jokes about my dog Rusty."
+        ],
+        "Description": "Web development is a broad description of the tasks and technologies that go into creating a website. It can be as simple as making a static text-based website or as elaborate as developing an interactive dynamic website. You can break web development into two different categories: frontend (client-side) and backend (server-side). Frontend code executes on the user's computer. This can include HTML, JavaScript, and CSS. Backend code runs on the server — this commonly includes communicating with a database and often involves languages like Python, Ruby, Java, or PHP. Web development does not necessarily include the design process — it focuses on code. A web designer builds wireframes to mockup their vision for a website and then shares that with a developer. The developer is responsible for writing the code that implements the design.",
+
+        "shortDes":"Web development is a broad description of the tasks and technologies that go into creating a website.",
+
+        "hours": 178,
+        "certification": "Yes",
+        "courseType": "Recorded",
+        "price": 125
+      },
+    {
+        "_id": "2",
+        "categoryId": 2,
+        "categoryName": "UI & UX Design",
+        "img": "https://miro.medium.com/max/1400/1*9BrpVqQkpXGPP4fLcrk5Dw.gif",
+        "cover":"https://c-incognito.com/wp-content/uploads/2021/07/Main-banner-1.jpg",
+        
+        "requirements": [
+            "Have a computer with Internet",
+          "Be ready to learn an insane amount of awesome stuff",
+          "Brace yourself for stupid jokes about my dog Rusty."
+
+        ],
+        "Description": "The UI/UX Design Specialization brings a design-centric approach to user interface and user experience design, and offers practical, skill-based instruction centered around a visual communications perspective, rather than on one focused on marketing or programming alone. In this sequence of four courses, your will summarize and demonstrate all stages of the UI/UX development process, from user research to defining a project’s strategy, scope, and information architecture, to developing sitemaps and wireframes. You’ll learn current best practices and conventions in UX design and apply them to create effective and compelling screen-based experiences for websites or apps.",
+
+        "shortDes":"The UI/UX Design Specialization brings a design-centric approach to user interface.",
+        "hours": 100,
+        "certification": "Yes",
+        "courseType": "Recorded",
+        "price": 80.44
+      },
+      {
+        "_id": "3",
+        "categoryId": 3,
+        "categoryName": "Mobile App Development",
+        "img": "https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif",
+        "cover":"https://www.lungtransplantproject.org/wp-content/uploads/2020/05/mobileapplication.jpg",
+        
+        "requirements": [
+            "How to get started with app development and create your very first iOS app",
+            "How to utilise the Apple developer tools (Xcode, Instruments, debugger analyzer, and iOS Simulator) to build your app",
+            "How to implement a range of features using the Swift programming language.",
+            "How to distinguish well-written code from poorly-written code and follow programming best practices in Swift.",
+            "The process and steps required to get your app on the App Store"
+
+        ],
+        "Description": "Mobile application development is the process of creating software applications that run on a mobile device, and a typical mobile application utilizes a network connection to work with remote computing resources. Hence, the mobile development process involves creating installable software bundles (code, binaries assets, etc.) , implementing backend services such as data access with an API, and testing the application on target devices.",
+
+        "shortDes":"Mobile application development is the process of creating software applications that run on a mobile device.",
+        "hours": 250,
+        "certification": "Yes",
+        "courseType": "Recorded",
+        "price": 134.95
+      },
+      {
+        "_id": "4",
+        "categoryId": 4,
+        "categoryName": "Graphics Design",
+        "img": "https://i.pinimg.com/originals/32/9b/63/329b63886c58f6f4915b8642f52ec8b3.gif",
+        "cover":"https://pepperyourcontent.com/wp-content/uploads/2022/02/7-Attributes-of-succesful-graphic-designers.png",
+        
+        "requirements": [
+            "Basic knowledge of PCs, MS Windows, internet and online proficiency",
+            "Basic knowledge of English (reading/writing/speaking)",
+            "SOFTWARE TAUGHT",
+            "Adobe Illustrator (Latest Version)",
+            "Adobe Photoshop (Latest Version)"
+
+
+        ],
+        "Description": "Graphic design is the lifeline of Digital Marketing. It is currently one of the most sought-after skills in Bangladesh. Graphic design offers an idea to create visual content that communicates ideas and thoughts. In addition to being able to advertise your own business more effectively, you can also make an impact as a graphic designer on the freelance market.",
+
+        "shortDes":"Graphic design is the lifeline of Digital Marketing. It is currently one of the most sought-after skills in Bangladesh.",
+        "hours": 150,
+        "certification": "Yes",
+        "courseType": "Recorded",
+        "price": 100.95
+      },
+      {
+        "_id": "5",
+        "categoryId": 5,
+        "categoryName": "Digital Marketing",
+        "img": "https://www.upgrade100.com/updates/wp-content/uploads/2019/05/image001.gif",
+        "cover":"https://www.whizlabs.com/blog/wp-content/uploads/2019/01/best-digital-marketing-courses.png",
+        
+        "requirements": [
+            "Basic knowledge of PCs, MS Windows, internet and online proficiency",
+            "Basic knowledge of English (reading/writing/speaking)",
+            "Familiarity with coding (for HTML/ CSS etc.)[NOT MANDATORY]"
+
+
+
+        ],
+        "Description": "This Digital Marketing Training Program provides a detailed understanding of Digital Marketing concepts, strategies, and implementation including planning a website, website promotion, email and Search Engine Optimization (SEO) campaigns, and integrating digital marketing with traditional marketing. Covering best practices and using case studies throughout, the session offers a practical guide to the core techniques in digital marketing. Online tools and reference materials are highlighted throughout, enabling delegates to leave with solid hands-on knowledge that they can implement immediately upon return to the office.",
+
+        "shortDes":"This Digital Marketing Training Program provides a detailed understanding of Digital Marketing concepts, strategies.",
+        "hours": 80,
+        "certification": "Yes",
+        "courseType": "Recorded",
+        "price": 70
+      },
+      {
+        "_id": "6",
+        "categoryId": 6,
+        "categoryName": "Animation and VFX",
+        "img": "https://cdn.dribbble.com/users/1043770/screenshots/6014435/fb-cover.gif",
+        "cover":"https://jetposting.com/wp-content/uploads/2022/02/Motion-Graphics-Design-Agency-Illustration.jpg",
+        
+        "requirements": [
+            "Basic knowledge of PCs, MS Windows, internet and online proficiency",
+            "Basic knowledge of English (reading/writing/speaking)",
+            "Familiarity with coding (for HTML/ CSS etc.)[NOT MANDATORY]"
+        ],
+
+        "Description": "Animation-VFX Prime is a dual domain course that trains you end-to-end in all aspects of animation and visual effects to make you a job-ready professional. It gives you a thorough grounding in the fundamentals and techniques of VFX, animation – 2D and 3D, typography, digital filmmaking, Fx, and Dynamics Simulation. Get ready for a career by studying an animation and VFX course at the Arena Animation institute using various tools and software. The Indian animation and VFX industry is expected to be worth Rs.151.8 billion in FY2023#. This means that the trained and skilled animators and VFX artists are in demand, and the recruiters will come looking for you on completion of a comprehensive course like Animation-VFX Prime.",
+
+        "shortDes":"Animation-VFX Prime is a dual domain course that trains you end-to-end in all aspects of animation.",
+        "hours": 170,
+        "certification": "Yes",
+        "courseType": "Recorded",
+        "price": 129
+      }
+]
