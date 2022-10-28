@@ -21,6 +21,15 @@ app.get('/course/:id', (req, res) => {
     res.send(course)
   })
 
+app.get('/category/:id', (req, res) => {
+  const id = req.params.id;
+  
+  const course = data.find(single=> single.categoryId==id)
+    res.send(course)
+  })
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
+
+module.exports = app;
